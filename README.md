@@ -131,7 +131,7 @@ Data is stored in localStorage with keys:
 
 ## Customization
 
-### Changing Colors
+### Changing Colors.
 
 Edit the CSS variables in `src/app/globals.css`:
 
