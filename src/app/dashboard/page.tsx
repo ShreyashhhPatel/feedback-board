@@ -63,6 +63,10 @@ export default function DashboardPage() {
     }
   };
 
+  const nothing_just => {
+    
+  };
+
   const openBoardModal = (companyId: string) => {
     setSelectedCompanyId(companyId);
     setIsBoardModalOpen(true);
