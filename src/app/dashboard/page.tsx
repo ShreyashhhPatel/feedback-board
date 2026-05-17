@@ -64,7 +64,7 @@ export default function DashboardPage() {
   };
 
   const nothing_just => {
-    
+    console.log("Hello World")
   };
 
   const openBoardModal = (companyId: string) => {
